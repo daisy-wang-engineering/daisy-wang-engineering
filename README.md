@@ -7,7 +7,7 @@ Areas of focus: mechanical and structural engineering roles involving spacecraft
 
 ## Featured Engineering Projects
 
-### Lightweight Engine Mount Strut
+### Lightweight Engine Mount Assembly
 
 Independent mechanical design project focused on component sizing, structural margins, and prediction of failure behavior.
 
