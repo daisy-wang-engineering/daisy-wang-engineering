@@ -2,22 +2,23 @@
 
 Aerospace engineering background, currently building a portfolio focused on **mechanical design, structural analysis, and commercial space hardware**.
 
-**Skills: FEA, Python, MATLAB, Solidworks, Excel, fabrication, analytical modeling**\
-Areas of focus: mechanical and structural engineering roles involving spacecraft hardware, fabrication and manufacturing, and testing-based design and redesign.
+**Skills: ANSYS FEA, Python, MATLAB, Solidworks, Excel, fabrication, hand calculations**\
+Areas of focus: mechanical and systems engineering roles involving spacecraft hardware, fabrication and integration, and testing-based design and redesign.
 
 ## Featured Engineering Projects
 
-### Lightweight Engine Mount Assembly
+### 1. Lightweight Engine Mount Assembly
 
 Independent mechanical design project focused on component sizing, structural margins, and prediction of failure behavior.
 
-* Developing a lightweight tubular strut design using analytical calculations and parametric sizing.
-* Planning FEA and physical testing to compare predicted behavior with measured results.
-* Intended next step: document the complete design, build, test, and redesign process.
+* Designed a strut-clevis pin assembly for a representative reusable launch vehicle engine mount
+* Developed a Python parameter sweep of tube diameter and wall thickness, identifying a 6061-T6 aluminum design with 36% lower mass than a solid bar baseline
+* Conducted ANSYS finite-element and buckling analyses, validated by hand calculations, to predict yield and ultimate margins of 0.3 and 0.4, and failure loads of 70–83 kN across 0.5–2 mm eccentricities
+* In progress: fabrication and testing to compare failure mode with predictions and guide redesign
 
-[View project repository](https://github.com/YOUR_USERNAME/engine-mount-strut)
+[View project repository](https://github.com/YOUR_USERNAME/01-engine-mount-mechanical-design)
 
-### Aerostructural Assessment of a Rocket Fin
+### 2. Aerostructural Assessment of a Rocket Fin
 
 Independent research combining classical aerodynamic theory, structural mechanics, and comparison against published experimental measurements.
 
@@ -25,21 +26,29 @@ Independent research combining classical aerodynamic theory, structural mechanic
 * Quantified prediction error and investigated body fin interference as a plausible source of model discrepancy.
 * Evaluated static bending stress, deflection, material options, and fin thickness sensitivity.
 
-[View project repository](https://github.com/YOUR_USERNAME/aerostructural-assessment-of-rocket-fin)
+[View project repository](https://github.com/YOUR_USERNAME/02-aerostructural-assessment-of-rocket-fin)
 
+### 3. Computational Modelling of Buoyancy Driven Flow
 
+University of Cambridge Masters research thesis. Rating received: First Class Honours
+
+* Derived governing equations for coupled core flow and boundary layer behavior from the Navier-Stokes equations and heat transport equations
+* Implemented numerical solutions in MATLAB using fourth order Runge-Kutta integration, shooting methods, and iterative techniques for nonlinear differential equations
+
+[View project repository](https://github.com/YOUR_USERNAME/03-computational-modeling-of-buoyancy-driven-flow)
+    
 ## Technical Interests
 
 * Mechanical component design and structural analysis
-* Aerospace structures and propulsion hardware
-* Experimental testing and failure analysis
+* Aerospace structures and spacecraft hardware
+* Systems engineering, integration, and testing
 * Aerodynamics, fluid mechanics, and heat transfer
 
 ## Education
 
 * **University of Southern California:** M.S. Mechanical Engineering, current
 * **University of Cambridge:** BA and M.Eng. (Hons) Aerospace Engineering
-* **Princeton University:** Master in Finance
+* **Princeton University:** Master in Quantitative Finance
 
 ## Contact
 
