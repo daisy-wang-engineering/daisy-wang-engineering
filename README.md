@@ -1,9 +1,11 @@
-# Daisy Wang | Mechanical Engineering
+# Daisy Wang | Aerospace and Mechanical Engineering
 
-Aerospace engineering background, currently building a portfolio focused on **mechanical design, structural analysis, and commercial space hardware**.
+**Former finance professional pursuing an M.S. in Mechanical Engineering at USC, working with Rocket Propulsion Lab on launch vehicle structures projects spanning mechanical design, fabrication, and testing.**
 
-**Skills: ANSYS FEA, Python, MATLAB, Solidworks, Excel, fabrication, hand calculations**\
-Areas of focus: mechanical and systems engineering roles involving spacecraft hardware, fabrication and integration, and testing-based design and redesign.
+### Skills:
+ANSYS FEA, Python, MATLAB, Solidworks, Excel, fabrication, hand calculations.
+### Areas of focus:
+mechanical analysis and systems engineering, fabrication and integration, and testing-based design and redesign.
 
 ## Featured Engineering Projects
 
@@ -54,4 +56,4 @@ University of Cambridge Masters research thesis. Rating received: First Class Ho
 
 Email: fanrongw@usc.edu
 
-I welcome opportunities to contribute to mechanical design, structural analysis, spacecraft hardware, and any other commercial space exploration projects!
+Please talk to me about opportunities to contribute to spacecraft hardware, or any other space exploration projects!
