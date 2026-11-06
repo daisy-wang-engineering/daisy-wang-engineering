@@ -18,7 +18,7 @@ Independent mechanical design project focused on component sizing, structural ma
 * Conducted ANSYS finite-element and buckling analyses, validated by hand calculations, to predict yield and ultimate margins of 0.3 and 0.4, and failure loads of 70–83 kN across 0.5–2 mm eccentricities
 * In progress: fabrication and testing to compare failure mode with predictions and guide redesign
 
-[View project repository](https://github.com/YOUR_USERNAME/01-engine-mount-mechanical-design)
+[View project repository](https://github.com/daisy-wang-engineering/01-engine-mount-mechanical-design)
 
 ### 2. Aerostructural Assessment of a Rocket Fin
 
@@ -28,7 +28,7 @@ Independent research combining classical aerodynamic theory, structural mechanic
 * Quantified prediction error and investigated body fin interference as a plausible source of model discrepancy.
 * Evaluated static bending stress, deflection, material options, and fin thickness sensitivity.
 
-[View project repository](https://github.com/YOUR_USERNAME/02-aerostructural-assessment-of-rocket-fin)
+[View project repository](https://github.com/daisy-wang-engineering/02-aerostructural-assessment-of-rocket-fin)
 
 ### 3. Computational Modelling of Buoyancy Driven Flow
 
@@ -37,7 +37,7 @@ University of Cambridge Masters research thesis. Rating received: First Class Ho
 * Derived governing equations for coupled core flow and boundary layer behavior from the Navier-Stokes equations and heat transport equations
 * Implemented numerical solutions in MATLAB using fourth order Runge-Kutta integration, shooting methods, and iterative techniques for nonlinear differential equations
 
-[View project repository](https://github.com/YOUR_USERNAME/03-computational-modeling-of-buoyancy-driven-flow)
+[View project repository](https://github.com/daisy-wang-engineering/03-computational-modeling-of-buoyancy-driven-flow)
     
 ## Technical Interests
 
