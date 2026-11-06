@@ -39,8 +39,7 @@ University of Cambridge Masters research thesis. Rating received: First Class Ho
     
 ## Technical Interests
 
-* Mechanical component design and structural analysis
-* Aerospace structures and spacecraft hardware
+* Mechanical design, analysis, and fabrication of spacecraft hardware
 * Systems engineering, integration, and testing
 * Aerodynamics, fluid mechanics, and heat transfer
 
