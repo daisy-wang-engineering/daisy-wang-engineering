@@ -1,6 +1,6 @@
 # Daisy Wang | Aerospace and Mechanical Engineering
 
-**Former finance professional pursuing an M.S. in Mechanical Engineering at USC, working with Rocket Propulsion Lab on launch vehicle structures projects spanning mechanical design, fabrication, and testing.**
+**Former finance professional pursuing an M.S. in Mechanical Engineering at USC, currently working with Rocket Propulsion Lab on launch vehicle structures projects spanning mechanical design, fabrication, and testing.**
 
 ### Skills:
 ANSYS FEA, Python, MATLAB, Solidworks, Excel, fabrication, hand calculations.
