@@ -18,7 +18,19 @@ Independent mechanical design project focused on component sizing, structural ma
 
 [View project repository](https://github.com/daisy-wang-engineering/01-engine-mount-mechanical-design)
 
-### 2. Aerostructural Assessment of a Rocket Fin
+### 2. Single-Axis Actuator: Requirements-Driven Control and Verification
+
+- Derived 16 verifiable requirements from 4 operational needs with a traceability matrix
+- Verified each requirement by simulated test or analysis 
+  - Bode margins, 200-run Monte Carlo, latency and fault-injection sweeps 
+- Fault-injection testing exposed an undetected stuck-encoder hazard and 7 A blocked-rotor current against a 5 A rating
+- Added plausibility monitor, fail-safe brake, limit switch and current limit, and re-verified
+  - Worst-case excursion 64° vs 90° hard stop. 
+- Documented a bandwidth-versus-latency requirements trade (CR-1) and three design iterations.
+
+[View project repository](https://github.com/daisy-wang-engineering/02_actuator_control_and_verification)
+
+### 3. Aerostructural Assessment of a Rocket Fin
 
 Independent research combining classical aerodynamic theory, structural mechanics, and comparison against published experimental measurements.
 
@@ -28,7 +40,7 @@ Independent research combining classical aerodynamic theory, structural mechanic
 
 [View project repository](https://github.com/daisy-wang-engineering/02-aerostructural-assessment-of-rocket-fin)
 
-### 3. Computational Modelling of Buoyancy Driven Flow
+### 4. Computational Modelling of Buoyancy Driven Flow
 
 University of Cambridge Masters research thesis. Rating received: First Class Honours
 
